@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://3-columns-challenge-jr.netlify.app/)
+- Solution URL: https://www.frontendmentor.io/solutions/3-columns-challenger-solution-Mf4r7cFS4
+- Live Site URL: https://3-columns-challenge-jr.netlify.app/
 
 ## My process
 
