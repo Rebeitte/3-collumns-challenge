@@ -62,6 +62,5 @@ I want to focusing on grid, my next challenge will be a card/gallery while I lea
 
 ## Author
 
-- Website - [Jesus Rebeitte](https://github.com/Rebeitte)
 - Frontend Mentor - [@rebeitte](https://www.frontendmentor.io/profile/Rebeitte)
 - Twitter - [@jesusrebeitte](https://twitter.com/jesusrebeitte)
